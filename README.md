@@ -1,7 +1,8 @@
 # AFIDs examples
 
-Please refer to the protocol at https://github.com/afids/afids-protocol
-Load the .nii.gz and .fcsv file into 3D Slicer to view.
+Load the relevant .nii.gz and .fcsv file into 3D Slicer to view.
+
+For more details on the protocol, see: https://github.com/afids/afids-protocol
 
 ## Template Spaces with AFIDs Annotations
 
