@@ -8,7 +8,11 @@ For more details on the protocol, see: https://github.com/afids/afids-protocol
 
 * Agile12v2016
 * Colin27
-* MNI2009c
+* MNI2009cAsym
+
+## Individual Subjects (Slicer Scene)
+
+* OASIS-1 sub-0180 comparing MNI2009cAsym <--> sub-0180 after FMRIPREP 1.1.1 deformable registration
 
 ## Copyright for MNI templates
 
