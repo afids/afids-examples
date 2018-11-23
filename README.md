@@ -9,6 +9,7 @@ For more details on the protocol, see: https://github.com/afids/afids-protocol
 * Agile12v2016
 * Colin27
 * MNI2009cAsym
+* PD25
 
 ## Individual Subjects (Slicer Scene)
 
